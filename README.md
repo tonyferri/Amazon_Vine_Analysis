@@ -20,20 +20,20 @@ The purpose of this exercise was to analyze Amazon reviews written by Amazon Vin
   * It would be benefecial to try and increase the sample size.  One way to do this would be to include 4-star reviews as well.  I created one more step filtering by both 4-star and 5-star reviews and the results were the following:
     * 83.33% of Vine reviews were 5-star
     * 75.28% of non-Vine reviews were 5-star
-  * As we increase the sample size, the potential for bias seems to increase as well
+  * As we increase the sample size, the potential for bias seems to increase as well.
 
 ## Pics:
 
-[vine data df]();
+[vine data df](https://github.com/tonyferri/Amazon_Vine_Analysis/blob/main/resources/vine%20data%20df.png);
 
-[twenty total votes df]();
+[twenty total votes df](https://github.com/tonyferri/Amazon_Vine_Analysis/blob/main/resources/twenty%20total%20votes%20df.png);
 
-[fifty percent helpful df]();
+[fifty percent helpful df](https://github.com/tonyferri/Amazon_Vine_Analysis/blob/main/resources/fifty%20percent%20helpful%20df.png);
 
-[vine paid df]();
+[vine paid df](https://github.com/tonyferri/Amazon_Vine_Analysis/blob/main/resources/vine%20paid%20df.png);
 
-[vine unpaid df]();
+[vine unpaid df](https://github.com/tonyferri/Amazon_Vine_Analysis/blob/main/resources/vine%20unpaid%20df.png);
 
-[five star counts]();
+[five star counts](https://github.com/tonyferri/Amazon_Vine_Analysis/blob/main/resources/five%20star%20counts.png);
 
-[four to five star counts]();
+[four to five star counts](https://github.com/tonyferri/Amazon_Vine_Analysis/blob/main/resources/four%20to%20five%20star%20counts.png);
